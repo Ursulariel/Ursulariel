@@ -1,7 +1,3 @@
-
-**Ursulariel/Ursulariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 Atualmente estou trabalhando na ambev tech ...
 - 🌱 Estou aprendendo html5, css3, javascript, bootstrap, typescript, nodejs and react ...
 - 👯 Estou procurando colaborar no desenvolvimento de front-end ...
@@ -21,8 +17,8 @@
   
   ##
   
-  ### Git Status
-  ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=great-gatsby&show_icons=true)
+  ### Git Stats
+  ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true)
   
   ##
   
