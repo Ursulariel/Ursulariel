@@ -20,8 +20,9 @@
   ##
   
   ### Git Stats
-  ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true)
   ![Úrsula github streak](https://github-readme-streak-stats.herokuapp.com/?user=Ursulariel&theme=dracula)
+  ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true)
+  
   
   ##
   
