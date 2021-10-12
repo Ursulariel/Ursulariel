@@ -1,41 +1,39 @@
 
-<!--
 **Ursulariel/Ursulariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I'm currently working at ambev tech ...
-- 🌱 I'm currently learning javascript, typescript, html, css and react ...
-- 👯 I'm looking to collaborate on front-end development ...
-- 🤔 I’m looking for help with git ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ela/dela/she/her
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando na ambev tech ...
+- 🌱 Estou aprendendo html5, css3, javascript, bootstrap, typescript, nodejs and react ...
+- 👯 Estou procurando colaborar no desenvolvimento de front-end ...
+- 🤔 Estou buscando ajuda com o git ...
+- 💬 Pergunte-me sobre ...
+- 😄 Pronomes: ela/dela/she/her
+- ⚡ Fun fact: Quando estou concentrada, fico mastigando minha lingua kkk ...
 
-##
-
- <div>
-  <a href="https://github.com/ursulariel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ursulariel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursulariel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  
-  ##
+### Social
+ 
   <div>
-    
   <a href="https://instagram.com/urslariel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Úrsula#9233" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ursulaariels@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/urariel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+  ##
+  
+  ### Git Status
+  ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=great-gatsby&show_icons=true)
+  
+  ##
+  
+  ### Tecnologias que uso em meu dia
+  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
