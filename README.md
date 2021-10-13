@@ -20,33 +20,34 @@
     <a href="https://github.com/ursulariel">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true"/>
   </div>
- 
- ##
-     
- - Front-end Tools
-     
-    <div>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" target="_blank"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap5-7952B3?logo=Bootstrap5&logoColor=white&style=flat"></a>
-    <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat"></a>
-    </div>
   
   ##
    
- - Linguages
+ - Front-end
    
     <div>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat"></a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=black&style=flat"></a>
+       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" target="_blank"></a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
+      <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=black&style=flat"></a>
+      <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"></a>
+      <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap5-7952B3?logo=Bootstrap&logoColor=white&style=flat"></a>
+      <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat"></a>
+      <a href="https://nodejs.org/pt-br/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.JS&logoColor=white&style=flat"></a>
+       <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat"></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat"></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat"></a>
     </div>
      
   ##
    
- - Design Tools
+ - UX/UI Design
 
     <div>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"></a>
-    <a href="https://mui.com/pt/" target="_blank"><img src="https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat"></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"></a>
+      <a href="https://mui.com/pt/" target="_blank"><img src="https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat"></a>
+      <a href="https://www.dell.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white&style=flat"></a>
     </div>
+
+    
+     
 
