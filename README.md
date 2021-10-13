@@ -37,16 +37,17 @@
  - Linguages
    
     <div>
-    <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat"></a>
-    <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=black&style=flat"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat"></a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=black&style=flat"></a>
     </div>
      
   ##
    
  - Design Tools
 
-   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat)
-   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat)
- 
+    <div>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"></a>
+    <a href="https://mui.com/pt/" target="_blank"><img src="https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat"></a>
+    </div>
   ##
 
