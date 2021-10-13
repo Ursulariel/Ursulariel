@@ -26,10 +26,10 @@
  - Front-end Tools
      
      <div>
-    <a href="https://www.linkedin.com/in/urariel/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"             target="_blank"></a>
-    <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
-    <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat"></a>
-    <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" target="_blank"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat"></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"></a>
   </div>
   
   ##
