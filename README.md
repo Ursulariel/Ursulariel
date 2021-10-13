@@ -14,10 +14,9 @@
 
   ![Úrsula GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true)
   <div>
- 
-  <a href="https://github.com/ursulariel">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursulariel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <a href="https://github.com/ursulariel">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursulariel&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
  
  ##
   
