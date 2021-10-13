@@ -8,7 +8,6 @@
   <div>
     <a href="https://www.linkedin.com/in/urariel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat"             target="_blank"></a>
     <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat" target="_blank"></a>
-    <a href="Úrsula#9233" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=flat" target="_blank"></a>
   </div>
     
  ##
