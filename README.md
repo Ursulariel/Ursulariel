@@ -28,7 +28,7 @@
     <div>
        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" target="_blank"></a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
-      <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=black&style=flat"></a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=black&style=flat"></a>
       <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"></a>
       <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap5-7952B3?logo=Bootstrap&logoColor=white&style=flat"></a>
       <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat"></a>
