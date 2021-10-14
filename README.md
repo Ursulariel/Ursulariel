@@ -45,7 +45,7 @@
     <div>
       <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"></a>
       <a href="https://mui.com/pt/" target="_blank"><img src="https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat"></a>
-      <a href="https://www.dell.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/-Notion-6b6a6a?logo=Notion&logoColor=white&style=flat"></a>
+      <a href="https://www.dell.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/-Notion-4a4747?logo=Notion&logoColor=white&style=flat"></a>
     </div>
 
     
