@@ -32,7 +32,6 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" target="_blank"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-4a4747?style=flat-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-Typescript-3178C6?logo=TypeScript&logoColor=white&style=flat"></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap5-7952B3?logo=Bootstrap&logoColor=white&style=flat"></a>
     <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-3fa4e8?logo=React&logoColor=white&style=flat"></a>
     <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-4a4747?logo=GitHub&logoColor=white&style=flat"></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat"></a>
