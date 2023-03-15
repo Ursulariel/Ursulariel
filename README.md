@@ -1,6 +1,6 @@
 
 <p align='center'>
-       Sou mulher transgênero, tenho 33 anos de idade, nascida na cidade de Macapá/AP/BR, desensolvedora Front-end e UX/UI Designer. Atualmente trabalho na ambev tech, onde venho aprendendo e desenvolvendo conhecimentos no React e aperfeiçoando meus conhecimentos em UI.
+       Sou mulher transgênero, tenho 35 anos de idade, nascida na cidade de Macapá/AP/BR, desensolvedora Front-end e UX/UI Designer. Atualmente trabalho na ambev tech, onde venho aprendendo e desenvolvendo conhecimentos no React e aperfeiçoando meus conhecimentos em UI.
 </p>
 
 ##
