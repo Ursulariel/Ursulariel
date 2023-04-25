@@ -1,6 +1,12 @@
 
 <p align='center'>
-       Sou mulher transgênero, tenho 35 anos de idade, nascida na cidade de Macapá/AP/BR, desensolvedora Front-end e UX/UI Designer. Atualmente trabalho na ambev tech, onde venho aprendendo e desenvolvendo conhecimentos no React e aperfeiçoando meus conhecimentos em UI.
+       Mulher Trans
+       <br>
+       Software Engineer - Front-end
+       <br>
+       Product Design - UX\UI
+       <br>
+       Ambev Tech
 </p>
 
 ##
@@ -12,16 +18,6 @@
     <a href="https://www.instagram.com/urslariel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat" target="_blank"></a>  
 </p>
 
-##
-<p align='center'>
-    <strong>GitHub Stats</strong>
-    <br>
-    <br>
-    <a href="https://github.com/ursulariel">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursulariel&layout=compact&langs_count=7&theme=dracula"/>
-    <a href="https://github.com/ursulariel">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ursulariel&theme=dracula&show_icons=true"/>    
-</p>
 
 ##
 <p align='center'>
@@ -44,6 +40,4 @@
     <br>
     <br>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat"></a>
-    <a href="https://mui.com/pt/" target="_blank"><img src="https://img.shields.io/badge/-MaterialUI-0081CB?logo=MaterialUI&logoColor=white&style=flat"></a>
-    <a href="https://www.dell.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/-Notion-4a4747?logo=Notion&logoColor=white&style=flat"></a>
 </p>
