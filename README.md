@@ -6,7 +6,7 @@
        <br>
        Product Design - UX\UI
        <br>
-       Ambev Tech
+       Founder & CEO - NOUN Saúde Hormonal
 </p>
 
 ##
