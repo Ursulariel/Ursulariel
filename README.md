@@ -1,12 +1,9 @@
-
+   
 <p align='center'>
-       Mulher Trans
-       <br>
-       Software Engineer - Front-end
+       Software Developer - Front-end
        <br>
        Product Design - UX\UI
        <br>
-       Founder & CEO - NOUN Saúde Hormonal
 </p>
 
 ##
