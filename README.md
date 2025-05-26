@@ -28,7 +28,6 @@
     <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-3fa4e8?logo=React&logoColor=white&style=flat"></a>
     <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-4a4747?logo=GitHub&logoColor=white&style=flat"></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat"></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat"></a>
 </p>
      
 ##
